@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="260b1cdc-665f-4c7a-bb10-1a6a2438e92a" name="Changes" comment="" />
+    <list default="true" id="260b1cdc-665f-4c7a-bb10-1a6a2438e92a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/alkoholfreiesBier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biere_probiert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hellesBier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ipaBier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pilsBier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weizenBier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +36,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KTIXCu7c5Dv8riWCghGcia71yG" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -37,7 +48,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -62,6 +72,11 @@
       <workItem from="1673992186897" duration="1097000" />
       <workItem from="1673993472443" duration="65000" />
       <workItem from="1673993544175" duration="20000" />
+      <workItem from="1673993621093" duration="1045000" />
+      <workItem from="1674074941121" duration="14874000" />
+      <workItem from="1674458606435" duration="3213000" />
+      <workItem from="1674463822204" duration="7564000" />
+      <workItem from="1674564302005" duration="1729000" />
     </task>
     <servers />
   </component>

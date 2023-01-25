@@ -1,0 +1,193 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  padding: 12px 16px;
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+
+}
+.dropdown-content a {
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  color: white;
+  padding: 12px 14px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.black{
+  color: white;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+.black:hover{
+  color: green;
+  filter: brightness(200%);
+}
+.logo{
+  filter: invert(100%);
+}
+.ueberschrift{
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  color: white;
+  font-size: 1.7em;
+}
+.navRechts {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-left: 30%;
+
+}
+.navRechts:hover{
+
+  filter: brightness(200%) ;
+}
+header {
+  color: black;
+}
+body {
+
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  font-size: 0.6em;
+  text-align: center;
+  background-color: black;
+  padding: .6em;
+}
+footer:hover{
+
+}
+p{
+  text-align: center;
+  color: brown;
+  line-height: 150%;
+}
+h1 {
+  color: black;
+  margin: 5% 0 0 0;
+  text-align: center;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+h2 {
+  margin: 1% 0 0 0;
+  text-align: center;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+h3 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  margin: 5% 0 0 0;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+nav ul {
+  padding-top: 0.7em;
+  background-color: black;
+  padding-bottom: 0.5em;
+  padding-inline-start: 25px;
+}
+nav li {
+  display: inline-block ;
+  margin-left: 15px;
+
+}
+table{
+  display: flex;
+  position: center;
+  margin: 0 0 0 0;
+  justify-content: center;
+  color: brown;
+
+}
+figure{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar{
+  margin: -0.5%;
+  position: fixed;
+  top: 0;
+  left:0;
+  right: 0;
+}
+.navbar:hover{
+
+}
+
+.Impressum{
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  color: white;
+}
+.Impressum:hover{
+  color: green;
+  filter: brightness(200%);
+}
+.Richard{
+  color: white;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 0em;
+  right: 0;
+  font-size: 1.0em;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  text-align: center;
+  padding-bottom: 0.4%;
+  padding-right: 1.2%;
+}
+.sozial{
+  position: fixed;
+}
+.insta{
+  position: fixed;
+  margin-left: 36%;
+
+}
+.snapchat{
+  position: fixed;
+  margin-left: 38%;
+
+}
+.spotify{
+  position: fixed;
+  margin-left: 34%;
+  margin-top: 0.04%;
+}
+.sozial:hover{
+
+}
+.SeitenAnfang{
+  color: white;
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 0em;
+  left: 0;
+  font-size: 1.0em;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+  text-align: center;
+  padding-bottom: 0.4%;
+  padding-left: 1.2%;
+}
+.SeitenAnfang:hover{
+  color: green;
+  filter: brightness(200%);
+}
+a {
+  text-decoration: none;
+}
+
+.inhalt{
+  color: black;
+  font-family: 'Encode Sans Semi Expanded', sans-serif;
+}
+
